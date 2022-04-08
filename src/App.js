@@ -9,6 +9,11 @@ import Testimonials from './components/testimonials/Testimonials';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 
+import smoothscroll from 'smoothscroll-polyfill';
+
+// kick off the polyfill!
+smoothscroll.polyfill();
+
 const App = () => {
   return (
     <>
