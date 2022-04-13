@@ -1,10 +1,10 @@
 import React from 'react';
 
 import './testimonials.css';
-import AVTR1 from '../../assets/avatar1.jpg';
-import AVTR2 from '../../assets/avatar2.jpg';
-import AVTR3 from '../../assets/avatar3.jpg';
-import AVTR4 from '../../assets/avatar4.jpg';
+// import AVTR1 from '../../assets/avatar1.jpg';
+// import AVTR2 from '../../assets/avatar2.jpg';
+// import AVTR3 from '../../assets/avatar3.jpg';
+// import AVTR4 from '../../assets/avatar4.jpg';
 
 import { Pagination } from 'swiper';
 
@@ -16,25 +16,25 @@ import 'swiper/css/pagination';
 
 const data = [
   {
-    avatar: AVTR1,
+    // avatar: AVTR1,
     name: 'Tina Snow',
     review:
       'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid autem rem itaque accusantium, labore adipisci optio iure cumque error, laboriosam reprehenderit quo reiciendis nostrum impedit. Ab incidunt quia ullam ea?',
   },
   {
-    avatar: AVTR2,
+    // avatar: AVTR2,
     name: 'Shatta Wale',
     review:
       'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid autem rem itaque accusantium, labore adipisci optio iure cumque error, laboriosam reprehenderit quo reiciendis nostrum impedit. Ab incidunt quia ullam ea?',
   },
   {
-    avatar: AVTR3,
+    // avatar: AVTR3,
     name: 'Kwame Despite',
     review:
       'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid autem rem itaque accusantium, labore adipisci optio iure cumque error, laboriosam reprehenderit quo reiciendis nostrum impedit. Ab incidunt quia ullam ea?',
   },
   {
-    avatar: AVTR4,
+    // avatar: AVTR4,
     name: 'Izy Fason',
     review:
       'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid autem rem itaque accusantium, labore adipisci optio iure cumque error, laboriosam reprehenderit quo reiciendis nostrum impedit. Ab incidunt quia ullam ea?',

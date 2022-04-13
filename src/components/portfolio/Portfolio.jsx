@@ -1,30 +1,39 @@
 import React from 'react';
 import './portfolio.css';
-import IMG1 from '../../assets/portfolio1.PNG';
-import IMG2 from '../../assets/portfolio2.jpg';
-import IMG3 from '../../assets/portfolio3.jpg';
+import IMG1 from '../../assets/Portfolio1.PNG';
+import IMG2 from '../../assets/Portfolio2.PNG';
+import IMG3 from '../../assets/Portfolio3.PNG';
+import IMG4 from '../../assets/Portfolio4.PNG';
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Camping Serbia - Js, Node, Express',
+    title: 'CampingSerbia - Js, Node, Express',
     github: 'https://github.com/DjuricaSurla/NodeExpress-CampingSerbia-Project',
     demo: 'https://camping-serbia.herokuapp.com/',
   },
   {
     id: 1,
     image: IMG2,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://google.com',
+    title: 'StudyBuddy - Django',
+    github: 'https://github.com/DjuricaSurla/Django-StudyBudd-Project',
+    demo: 'https://study-buddy-project.herokuapp.com/',
   },
   {
     id: 1,
     image: IMG3,
-    title: 'Figma dashboard UI kit for data design web apps',
-    github: 'https://github.com',
-    demo: 'https://google.com',
+    title: 'GoalSetter - MERN Stack',
+    github:
+      'https://github.com/DjuricaSurla/MERN-GoalSetterApp-Project/tree/master',
+    demo: 'https://goal-setter-app-mern.herokuapp.com/',
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: 'Learning Log - Django',
+    github: 'https://github.com/DjuricaSurla/Django-LearningLog-Project',
+    demo: 'https://learnning-log.herokuapp.com/',
   },
 ];
 
