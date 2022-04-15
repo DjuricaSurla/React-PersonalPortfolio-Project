@@ -37,11 +37,11 @@ const About = () => {
             </article>
           </div> */}
           <p>
-            Hi there! I am Djurica Surla and I'm an engineering student and
-            Software Developer. I enjoy spending my time going outdoors, playing
-            sports, chess, video games with friends and exploring new places.
-            Feel free to reach out to me for if you are in need of help for your
-            projects!
+            Hi there! I am Djurica Surla and I'm an engineering student and a
+            Web Developer. I enjoy spending my time going outdoors, playing
+            sports, chess, video games with friends, exploring new places and
+            learning new things. Feel free to reach out to me for if you are in
+            need of help for your projects!
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
